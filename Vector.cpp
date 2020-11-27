@@ -1,3 +1,4 @@
+// Để đơn giản hãy khai báo thư viện vector.
 #include <cstdlib>
 using namespace std;
 #define ll long long
