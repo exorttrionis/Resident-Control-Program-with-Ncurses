@@ -7,8 +7,8 @@ Linux: sudo apt-get install libncurses5-dev libncursesw5-dev
 
 Window: https://pdcurses.org/
 
-Chạy chương trình:
+Chạy chương trình: (Áp dụng trên Linux)
 
-g++ -o Menu Menu_test.cpp -lncurses
+g++ -o Menu Menu_test.cpp -lncurses 
 
 ./Menu
